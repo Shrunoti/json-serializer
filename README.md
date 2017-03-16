@@ -7,6 +7,6 @@ Run on Terminal:
 1. g++ main.cpp jsoncpp.cpp
 2. ./a.out
 
-Classes can be written similar to 'Test' class to serialize objects to json.
+Classes can be written similar to 'Test'in main.cpp class to serialize objects to json.
 
 
